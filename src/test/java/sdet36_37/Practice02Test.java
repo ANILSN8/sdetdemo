@@ -20,7 +20,7 @@ public class Practice02Test {
 	@Test(enabled=false)
 	public void test2() {
 		System.out.println("From Tyss002");
-		System.out.println("welcome anil");
+		System.out.println("welcome to anil");
 	}
 	
 	@Test(priority=1)
